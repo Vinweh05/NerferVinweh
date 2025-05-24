@@ -1,0 +1,8 @@
+name: NerferVinweh
+version: 1.0
+main: de.vinweh.nerferVinweh.NerferVinweh
+api-version: 1.20
+commands:
+  nerfervinweh:
+    description: Toggle für NerferVinweh
+    permission: nerfervinweh.toggle

@@ -1,0 +1,11 @@
+invisibility:
+  minTicks: 20
+  maxTicks: 60
+  growthRate: 0.122
+  base: 17.7
+  messageCooldownMs: 30000
+riptide:
+  level1Speed: 0.6
+  level2Speed: 0.7
+  level3Speed: 0.85
+  # 0.1 ist ca. 1 Block bei 0° Winkel nach oben.
